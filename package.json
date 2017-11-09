@@ -1,0 +1,12 @@
+{
+  "name": "testGit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SirJalias/testGit.git",
+  "author": "JM Elías <haliesfrik@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.1.0",
+    "react-dom": "^16.1.0"
+  }
+}
